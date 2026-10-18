@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>RSS Reader Changelog</title>
+        <link>https://sudoswisshub.github.io/RSS/support.html</link>
+        <description>Release notes and product updates for RSS Reader.</description>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 17 Oct 2026 00:00:00 +0000</lastBuildDate>
+
+        <item>
+            <title>RSS Reader 1.4</title>
+            <link>https://sudoswisshub.github.io/RSS/support.html</link>
+            <guid isPermaLink="false">rss-reader-1.4</guid>
+            <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+            <description>Optional iCloud Sync for feeds, reading state, Read Later, highlights, tags, and rules. Home Screen and Lock Screen widgets, a Share extension, and Dynamic Island controls for listening. Related stories by meaning, Time to Read, Links in This Story, and Quiet Hours. Smoother scrolling and lower battery use, more accurate ad filtering, and the app is now fully translated into 15 languages.</description>
+        </item>
+
+        <item>
+            <title>RSS Reader 1.0.0</title>
+            <link>https://sudoswisshub.github.io/RSS/support.html</link>
+            <guid isPermaLink="false">rss-reader-1.0.0</guid>
+            <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+            <description>Initial release with RSS, Atom, and JSON Feed subscriptions, OPML import and export, offline storage controls, notifications, and reader-focused article views.</description>
+        </item>
+    </channel>
+</rss>
